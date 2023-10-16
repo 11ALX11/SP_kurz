@@ -80,7 +80,7 @@ int __cdecl main(int argc, wchar_t *argv[])
         // Wait for key press
         int key = _getch();
 
-        if (key == 'x' || key == 'X')
+        if (key == 'x' || key == 'X' || key == '÷' || key == '×')
         {
             bExit = true;
         }
