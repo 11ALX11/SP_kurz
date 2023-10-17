@@ -32,7 +32,7 @@
 
 ## Курсовой проект (документ)
 
-[Отсутствет](./doc/kurz.docx)
+[Misijuk_KP_print.pdf](./doc/Misijuk_KP_print.pdf)
 
 ## Литература
 
